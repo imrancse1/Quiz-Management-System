@@ -1,0 +1,72 @@
+<Electronics>
+<question id="1">
+<ques>What is the color code for a 220 omega.gif 5% resistor?</ques>
+<wrong>Red, Red, Brown, Silver</wrong>
+<wrong>Red, Red, Black, Gold</wrong>
+<wrong>Orange, Orange, Black, Gold</wrong>
+<correct>Red, Red, Brown, Gold</correct>
+</question>
+<question id="2">
+<ques>If 60 J of energy are available for every 15 C of charge, what is the voltage?</ques>
+<wrong>40 V</wrong>
+<wrong>2.5 V</wrong>
+<wrong>0 V</wrong>
+<correct>4 V</correct>
+</question>
+<question id="3">
+<ques>An atom's atomic number is determined by the number of:</ques>
+<wrong>neutrons minus protons</wrong>
+<wrong>electrons</wrong>
+<wrong>neutrons</wrong>
+<correct>protons</correct>
+</question>
+<question id="4">
+<ques>A voltage will influence current only if the circuit is:</ques>
+<wrong>Open</wrong>
+<wrong>insulated</wrong>
+<wrong>none</wrong>
+<correct>closed</correct>
+</question>
+<question id="5">
+<ques>Which resistive component is designed to be temperature sensitive?</ques>
+<wrong>Rheostat</wrong>
+<wrong>Photoconductive cell</wrong>
+<wrong>Potentiometer</wrong>
+<correct>Thermistor</correct>
+</question>
+<question id="6">
+<ques>Primary batteries, unlike secondary batteries, may be:</ques>
+<wrong>charged once</wrong>
+<wrong>recharged over and over</wrong>
+<wrong>stored indefinitely</wrong>
+<correct>used once</correct>
+</question>
+<question id="7">
+<ques>In practical applications, battery voltage:</ques>
+<wrong>is restored as soon as disconnect occurs</wrong>
+<wrong>may be stored indefinitel</wrong>
+<wrong>will be reduced to zero as power is drawn</wrong>
+<correct>is lowered as the load increases</correct>
+</question>
+<question id="8">
+<ques>The negative and positive charge symbols are assigned (in that order) to the:</ques>
+<wrong>proton and electron</wrong>
+<wrong>atom and nucleus</wrong>
+<wrong>electron and element</wrong>
+<correct>electron and proton</correct>
+</question>
+<question id="9">
+<ques>A voltmeter is used:</ques>
+<wrong>to measure current</wrong>
+<wrong>in series with the circuit</wrong>
+<wrong>to measure coulombs</wrong>
+<correct>in parallel with the circuit</correct>
+</question>
+<question id="10">
+<ques>If the current in a circuit equals 0 A, it is likely that the</ques>
+<wrong>voltage is too high</wrong>
+<wrong>resistance is too low</wrong>
+<wrong>circuit has a short</wrong>
+<correct>circuit is open</correct>
+</question>
+</Electronics>

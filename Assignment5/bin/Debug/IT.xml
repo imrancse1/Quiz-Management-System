@@ -1,0 +1,72 @@
+<IT>
+<question id="1">
+<ques>World's first microprocessor is:</ques>
+<wrong>AMD</wrong>
+<correct>Intel 4004</correct>
+<wrong>Intel 8086</wrong>
+<wrong>Intel Core i7</wrong>
+</question>
+<question id="2">
+<ques>Do no evil' is the tagline of</ques>
+<wrong>Apple</wrong>
+<wrong>Microsoft</wrong>
+<correct>Google</correct>
+<wrong>Yahoo</wrong>
+</question>
+<question id="3">
+<ques>Which famous site was founded by Jeffry Bezos?</ques>
+<correct>Amazon.com</correct>
+<wrong>Paypal</wrong>
+<wrong>Youtube</wrong>
+<wrong>Dropbox</wrong>
+</question>
+<question id="4">
+<ques>Who is known as father of Wi-fi?</ques>
+<wrong>Bill Gates</wrong>
+<wrong>Steve Jobs</wrong>
+<correct>Victor Hayes</correct>
+<wrong>Jack Ma</wrong>
+</question>
+<question id="5">
+<ques>Which key is to the top left corner on any keyboard?</ques>
+<wrong>Ctrl</wrong>
+<wrong>Shift</wrong>
+<wrong>Fn</wrong>
+<correct>ESC</correct>
+</question>
+<question id="6">
+<ques>How many standard codes are there in ASCII?</ques>
+<wrong>16</wrong>
+<wrong>32</wrong>
+<wrong>64</wrong>
+<correct>128</correct>
+</question>
+<question id="7">
+<ques>What is the unit used to measure speed of a printer?</ques>
+<wrong>ppm (point per minute)</wrong>
+<wrong>ppm (process per minute)</wrong>
+<wrong>ppm (pixel per minute)</wrong>
+<correct>ppm (pages per minute)1</correct>
+</question>
+<question id="8">
+<ques>Which of the items is an input device?</ques>
+<wrong>Computer Monitor</wrong>
+<wrong>Display Board</wrong>
+<wrong>Overhead Projector</wrong>
+<correct>Keyboard</correct>
+</question>
+<question id="9">
+<ques>Which part of the computer helps to store information? </ques>
+<wrong>Keyboard</wrong>
+<wrong>Mouse</wrong>
+<wrong>RAM</wrong>
+<correct>Disk Drive</correct>
+</question>
+<question id="10">
+<ques>What is the number of Computer Generation?</ques>
+<wrong>Three</wrong>
+<wrong>Two</wrong>
+<wrong>One</wrong>
+<correct>Five</correct>
+</question>
+    </IT>

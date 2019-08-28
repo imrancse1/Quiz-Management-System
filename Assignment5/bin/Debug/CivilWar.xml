@@ -1,0 +1,72 @@
+<CivilWar>
+<question id="1">
+<ques>The first big battle of the Civil War took place at Fort Sumter. Which state was it in?</ques>
+<wrong>North Carolina</wrong>
+<wrong>New Hampshire</wrong>
+<wrong>New York</wrong>
+<correct>South Carolina</correct>
+</question>
+<question id="2">
+<ques>The soldiers who fought for the Union side were mostly from</ques>
+<wrong>The South</wrong>
+<wrong>The East</wrong>
+<wrong>The West</wrong>
+<correct>The North</correct>
+</question>
+<question id="3">
+<ques>The soldiers who fought for the Confederacy side were mostly from</ques>
+<wrong>The East</wrong>
+<wrong>The West</wrong>
+<wrong>The North</wrong>
+<correct>The South</correct>
+</question>
+<question id="4">
+<ques>Abraham Lincoln was the ______ President</ques>
+<wrong>12th</wrong>
+<wrong>14th</wrong>
+<wrong>18th</wrong>
+<correct>16th</correct>
+</question>
+<question id="5">
+<ques>At the end of the war over ______ people had died.</ques>
+<wrong>100</wrong>
+<wrong>100,000</wrong>
+<wrong>0</wrong>
+<correct>600,000</correct>
+</question>
+<question id="6">
+<ques>Most soldiers traveled by</ques>
+<wrong>horseback</wrong>
+<wrong>wagon</wrong>
+<wrong>car</wrong>
+<correct>foot</correct>
+</question>
+<question id="7">
+<ques>The gun most soldiers used only fired one shot at a time. It was called a</ques>
+<wrong>muskrat</wrong>
+<wrong>muddle</wrong>
+<wrong>mascot</wrong>
+<correct>musket</correct>
+</question>
+<question id="8">
+<ques>Which statement is most true?</ques>
+<wrong>Abraham Lincoln kept many slaves</wrong>
+<wrong>Abraham Lincoln was for slavery</wrong>
+<wrong>Abraham Lincoln didn't care either way</wrong>
+<correct>Abraham Lincoln was against slavery.</correct>
+</question>
+<question id="9">
+<ques>Which statement is most true?</ques>
+<wrong>General Grant surrendered to General Lee</wrong>
+<wrong>General Lee surrendered to Abraham Lincoln</wrong>
+<wrong>General Grant surrendered to Abraham Lincoln</wrong>
+<correct>General Lee surrendered to General Grant</correct>
+</question>
+<question id="10">
+<ques>The Civil war lasted</ques>
+<wrong>1 year</wrong>
+<wrong>40 years</wrong>
+<wrong>400 years</wrong>
+<correct>4 years</correct>
+</question>
+</CivilWar>

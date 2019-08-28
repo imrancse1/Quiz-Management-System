@@ -1,0 +1,72 @@
+<Physics>
+<question id="1">
+<ques>Which of Newton's Three Laws does the following statement satisfy? The relationship between an object's mass (m), its acceleration (a), and the applied force F is F=ma. Acceleration and force are vectors. This law requires that the direction of the acceleration vector is in the same direction as the force vector.</ques>
+<wrong>Newton's First Law</wrong>
+<wrong>Newton's Second Law</wrong>
+<wrong>All of the above</wrong>
+<correct>Newton's Third Law</correct>
+</question>
+<question id="2">
+<ques>Which of Newton's Three Laws does the following statement satisfy? For every action there is an equal and opposite reaction.</ques>
+<wrong>Newton's First Law</wrong>
+<wrong>None of above</wrong>
+<wrong>Newton's Third Law</wrong>
+<correct>Newton's Second Law</correct>
+</question>
+<question id="3">
+<ques>Objects in motion tend to remain in motion, whereas objects at rest tend to remain at rest. This idea is called</ques>
+<wrong>velocity</wrong>
+<wrong>acceleration</wrong>
+<wrong>motion</wrong>
+<correct>inertia</correct>
+</question>
+<question id="4">
+<ques>Because it is a measure of two quantities, momentum is a</ques>
+<wrong>scaler</wrong>
+<wrong>constant</wrong>
+<wrong>none</wrong>
+<correct>vector</correct>
+</question>
+<question id="5">
+<ques>Who was the first person to define speed?</ques>
+<wrong>Aristotle</wrong>
+<wrong>Kepler</wrong>
+<wrong>Newton</wrong>
+<correct>Galileo</correct>
+</question>
+<question id="6">
+<ques>What is the formula for speed?</ques>
+<wrong>speed = distance+time</wrong>
+<wrong>speed = distance-time</wrong>
+<wrong>speed = distance*time</wrong>
+<correct>speed = distance/time</correct>
+</question>
+<question id="7">
+<ques>Velocity is defined as</ques>
+<wrong>speed and inertia</wrong>
+<wrong>direction and inertia</wrong>
+<wrong>direction and nothing</wrong>
+<correct>speed and direction</correct>
+</question>
+<question id="8">
+<ques>True or false or else? Momentum cannot be shifted between two objects</ques>
+<wrong>true</wrong>
+<wrong>sometimes</wrong>
+<wrong>none</wrong>
+<correct>false</correct>
+</question>
+<question id="9">
+<ques>Any quantity that specifies a magnitude and a direction is called a</ques>
+<wrong>scaler</wrong>
+<wrong>constant</wrong>
+<wrong>none</wrong>
+<correct>vector</correct>
+</question>
+<question id="10">
+<ques>Is speed a vector?</ques>
+<wrong>yes</wrong>
+<wrong>sometimes</wrong>
+<wrong>never</wrong>
+<correct>no</correct>
+</question>
+</Physics>
